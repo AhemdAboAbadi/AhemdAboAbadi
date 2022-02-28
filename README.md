@@ -45,7 +45,7 @@
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" width="40" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"></code>
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/saas-457964.png"></code>
+<!-- <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/saas-457964.png"></code> -->
 <code><img height="40" width="40" src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
@@ -53,7 +53,7 @@
 <code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg"></code>
 <code><img height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg"></code>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Linux_Logo_in_Linux_Libertine_Font.svg"></code>
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png"></code>
+<!-- <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png"></code> -->
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"></code>
 
