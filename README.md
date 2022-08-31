@@ -18,7 +18,7 @@
 
 
 - 🔭 I’m currently working on **Web Development**
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Web 3**
 - 👯 I’m looking to collaborate on **Full Stack Web Development**
 - 🤔 I’m looking for with **job**
 - 💬 Ask me about Anything [here](https://www.linkedin.com/in/ahmed-abo-abadi-958b1b224/)! I am happy to help.
